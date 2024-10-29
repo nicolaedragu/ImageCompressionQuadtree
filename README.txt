@@ -1,5 +1,3 @@
-/* DRAGU Nicolae - 314CC */
-
     Am ales sa construiesc cate o structura diferita pentru arborele in sine 
 si nodurile acestuia. Prima oara citesc inceputul fisierului de intrare, .ppm,
 unde se stie mereu cu ce va incepe. Variabila end citeste "\n" de dupa valoarea
@@ -16,4 +14,4 @@ Totodata, numar cate patrate au culoarea medie mai mica sau egala decat prag.
 Acest numar este numarul de blocuri din imagine pentru care scorul 
 similaritatii pixelilor este mai mic sau egal decât factorul furnizat.
     Pentru a doua cerinta alcatuiesc arborele analog cerintei 1, doar ca 
-acum afisez continutul nodurilor arborelui, conform cerintei.
+acum afisez continutul nodurilor arborelui.
